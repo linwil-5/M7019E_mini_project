@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ltu.m7019e.themoviedb.MainActivity">
+    <item
+        android:id="@+id/aboutFragment"
+        android:title="@string/about" />
+    <item
+        android:id="@+id/helpFragment"
+        android:title="@string/help" />
+</menu>

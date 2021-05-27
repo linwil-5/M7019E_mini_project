@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Remoulade</string>
+    <string name="hello_from_home_screen">Hello from home screen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="about">About</string>
+    <string name="server_status">Server status</string>
+    <string name="refresh">Refresh</string>
+    <string name="detail">Detail</string>
+    <string name="location">Location</string>
+    <string name="help">Help</string>
+
+</resources>
